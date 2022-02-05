@@ -1,0 +1,40 @@
+{
+    "name": "colorstar-5",
+    "symbol": "",
+    "description": "5th of colorstar series",
+    "seller_fee_basis_points": 500,
+    "image": "image.png",
+    "attributes": [
+        {
+            "trait_type": "stars",
+            "value": "four"
+          },
+          {
+            "trait_type": "colorlevel",
+            "value": "three"
+         },
+         {
+            "trait_type": "number",
+            "value": "fifth"
+          }
+    ],
+    "collection": {
+       "name": "colorstar",
+       "family": "Ka-colour"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "Eait1kAc9MiovKT4Gz9ejNHtwkvBPR9BAzNBs1vp1SUs",
+          "share": 100
+        }
+      ]
+    }
+  }

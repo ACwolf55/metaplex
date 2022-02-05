@@ -1,0 +1,40 @@
+{
+    "name": "colorstar-4",
+    "symbol": "",
+    "description": "4th of colorstar series",
+    "seller_fee_basis_points": 500,
+    "image": "image.png",
+    "attributes": [
+        {
+            "trait_type": "stars",
+            "value": "three"
+          },
+          {
+            "trait_type": "colorlevel",
+            "value": "two"
+         },
+         {
+            "trait_type": "number",
+            "value": "fourth"
+          }
+    ],
+    "collection": {
+       "name": "colorstar",
+       "family": "Ka-colour"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "Eait1kAc9MiovKT4Gz9ejNHtwkvBPR9BAzNBs1vp1SUs",
+          "share": 100
+        }
+      ]
+    }
+  }
